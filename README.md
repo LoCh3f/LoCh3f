@@ -8,7 +8,6 @@
 
 ### - 🌱 Engineering and Computer Science student
 
-### - 🔭 I’m currently working on a Database for agri-food consortia
 ### - 📫 How to reach me: l.c.aldovisconti@gmail.com
 
 # ___⛰️⛰️⛰️⛰️⛰️⛰️⛰️🏔️⛰️⛰️🚂🚃🚃🚃🚃🚃⛰️⛰️⛰️⛰️⛰️⛰️___ #
@@ -19,4 +18,7 @@
 <!-- 💬 Ask me about ...
 <!--- 📫 How to reach me: ...
 <!--- ⚡ Fun fact: ...
+### - 🔭 I’m currently working on a Database for agri-food consortia
+
+
 

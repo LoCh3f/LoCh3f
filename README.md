@@ -10,8 +10,8 @@
 
 ### - 📫 How to reach me: l.c.aldovisconti@gmail.com
 
-# ___⛰️⛰️⛰️⛰️⛰️⛰️⛰️🏔️⛰️⛰️🚂🚃🚃🚃🚃🚃⛰️⛰️⛰️⛰️⛰️⛰️___ #
-
+# ___⛰️⛰️⛰️⛰️⛰️🏔️⛰️⛰️🚂🚃🚃🚃🚃🚃⛰️⛰️⛰️⛰️⛰️⛰️___ #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoCh3f&count_private=true&show_icons=true&theme=transparent&hide=prs,issues)
 
 <!--- 🌱👯 I’m looking to collaborate on ...
 <!--- 🤔 I’m looking for help with ...

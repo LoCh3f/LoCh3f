@@ -8,7 +8,7 @@
 <!--#📚 hungry for knowledge #-->
 
 ----
-#  🧑‍🍳  LoCh3f welcomes you with pleasure 🧑‍🍳  #
+#  🧑‍🍳  YOU'RE WELCOME 🧑‍🍳  #
 ##  Who Am I
 
 ### - 🌱 Engineering and Computer Science student

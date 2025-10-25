@@ -5,24 +5,29 @@
 
 </div>
 
-<!--#📚 hungry for knowledge #-->
-
-----
-#  🧑‍🍳  YOU'RE WELCOME 🧑‍🍳  #
-##  Who Am I
+---
 
 ### - 🌱 Engineering and Computer Science student
+---
+
+<p align="center">
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoCh3f&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=LoCh3f&show_icons=true&theme=tokyonight" />
+</p>
+
+---
 
 ### - 📫 How to reach me: l.c.aldovisconti@gmail.com
 
-# ___⛰️⛰️⛰️⛰️⛰️🏔️⛰️⛰️🚂🚃🚃🚃🚃🚃⛰️⛰️⛰️⛰️⛰️⛰️___ #
+---
 
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoCh3f&count_private=true&show_icons=true&theme=transparent&hide=prs,issues)
-  
-</div>
-  
+<!---<p align="center"><img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=LoCh3f&theme=tokyonight" /></p>---!>
+
+
+
+
 <!--- 🌱👯 I’m looking to collaborate on ...
 <!--- 🤔 I’m looking for help with ...
 <!-- 💬 Ask me about ...
